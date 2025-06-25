@@ -1,3 +1,4 @@
+//Constraint file
 set_property -dict { PACKAGE_PIN L5    IOSTANDARD LVCMOS33 } [get_ports { in[0] }];#LSB
 set_property -dict { PACKAGE_PIN L4    IOSTANDARD LVCMOS33 } [get_ports { in[1] }];
 set_property -dict { PACKAGE_PIN M4    IOSTANDARD LVCMOS33 } [get_ports { in[2] }];
